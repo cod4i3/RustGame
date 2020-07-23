@@ -17,6 +17,7 @@ name = "gl"
 version = "0.1.0"
 dependencies = [
  "gl_generator",
+ "gl_generator_profiling_struct",
 ]
 
 [[package]]
@@ -28,6 +29,15 @@ dependencies = [
  "khronos_api",
  "log",
  "xml-rs",
+]
+
+[[package]]
+name = "gl_generator_profiling_struct"
+version = "0.1.2"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "6f93e1b0666dae88dda1a2d6fe9fb12f17c0b5551d0621e3d753e2c42fc6c067"
+dependencies = [
+ "gl_generator",
 ]
 
 [[package]]
