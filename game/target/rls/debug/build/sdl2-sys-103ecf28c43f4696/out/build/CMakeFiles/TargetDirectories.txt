@@ -1,0 +1,9 @@
+/Users/code413/program/Rust/OpenGL/game/target/rls/debug/build/sdl2-sys-103ecf28c43f4696/out/build/CMakeFiles/list_install_components.dir
+/Users/code413/program/Rust/OpenGL/game/target/rls/debug/build/sdl2-sys-103ecf28c43f4696/out/build/CMakeFiles/rebuild_cache.dir
+/Users/code413/program/Rust/OpenGL/game/target/rls/debug/build/sdl2-sys-103ecf28c43f4696/out/build/CMakeFiles/edit_cache.dir
+/Users/code413/program/Rust/OpenGL/game/target/rls/debug/build/sdl2-sys-103ecf28c43f4696/out/build/CMakeFiles/install/strip.dir
+/Users/code413/program/Rust/OpenGL/game/target/rls/debug/build/sdl2-sys-103ecf28c43f4696/out/build/CMakeFiles/install.dir
+/Users/code413/program/Rust/OpenGL/game/target/rls/debug/build/sdl2-sys-103ecf28c43f4696/out/build/CMakeFiles/uninstall.dir
+/Users/code413/program/Rust/OpenGL/game/target/rls/debug/build/sdl2-sys-103ecf28c43f4696/out/build/CMakeFiles/install/local.dir
+/Users/code413/program/Rust/OpenGL/game/target/rls/debug/build/sdl2-sys-103ecf28c43f4696/out/build/CMakeFiles/SDL2-static.dir
+/Users/code413/program/Rust/OpenGL/game/target/rls/debug/build/sdl2-sys-103ecf28c43f4696/out/build/CMakeFiles/SDL2main.dir
